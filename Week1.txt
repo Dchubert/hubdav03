@@ -1,0 +1,8 @@
+John Grieco johnjgrieco@gmail.com
+Nikolas Adamson Nikolai.adamson@yahoo.com
+David Hubert chronometrics@gmail.com
+
+Week 1 Goals: 
+Learn the basics of The Ruby programming language
+Research options for buying/building Arduino boards
+Brush up on Google Sketchup
