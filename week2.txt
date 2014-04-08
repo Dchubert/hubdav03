@@ -1,0 +1,13 @@
+John Grieco johnjgrieco@gmail.com
+Nikolas Adamson Nikolai.adamson@yahoo.com
+David Hubert chronometrics@gmail.com
+
+Week 1 Goals: 
+Learn the basics of The Ruby programming language - Met. The code is no longer an incomprehensible wall, but I'm still working to remember the various commands.
+Research options for buying/building Arduino boards - Most of my time has been devoted to this, I've gone over the entire Arduino Workshop book in liue of the other reading but will catch up.
+Brush up on Google Sketchup - My group has decided to use in Sketchup in lieu of something more compatible with a 3d printer.
+
+Week 2
+Continue learning Ruby
+Catch up on class reading
+Learn the basics of Blender
