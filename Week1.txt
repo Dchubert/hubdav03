@@ -6,3 +6,13 @@ Week 1 Goals:
 Learn the basics of The Ruby programming language
 Research options for buying/building Arduino boards
 Brush up on Google Sketchup
+
+Week 1 Goals: 
+Learn the basics of The Ruby programming language - Met. The code is no longer an incomprehensible wall, but I'm still 
+working to remember the various commands.
+
+Research options for buying/building Arduino boards - Exceeded. Most of my time has been devoted to this, I've gone over the entire 
+Arduino Workshop book in liue of the other reading but will catch up.
+
+Brush up on Google Sketchup - N/A. My group has decided to not use Sketchup in lieu of something more compatible with a 3d 
+printer.
