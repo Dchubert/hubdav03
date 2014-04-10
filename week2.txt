@@ -5,4 +5,4 @@ David Hubert chronometrics@gmail.com
 Week 2
 Continue learning Ruby
 Catch up on reading Anathem
-Learn the basics of Blender
+Review Tantillus hardware specs
